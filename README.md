@@ -1,6 +1,6 @@
 # GA-ACO-Flowshop
 
-基于 **遗传算法（GA, Genetic Algorithm）** 和 **蚁群算法（ACO, Ant Colony Optimization）** 的生产车间（流水车间）调度优化工具。适用于经典 F_m|prmu|C_max 问题，支持自定义工件数、机器数与加工时间，方便二次开发和科研教学用途。
+基于 **遗传算法（GA, Genetic Algorithm）** 和 **蚁群算法（ACO, Ant Colony Optimization）** 的生产车间（流水车间）调度优化工具。适用于经典 的 $$F_m$$|prmu|C_max 问题，支持自定义工件数、机器数与加工时间，方便二次开发和科研教学用途。
 
 ## 项目简介
 
